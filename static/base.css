@@ -1,0 +1,21 @@
+.footer_logo {
+    font-family: 'Lobster', cursive;
+    margin-top: 1rem;
+}
+.footer_button{
+    font-size: .6rem;
+}
+
+.footer_container {
+    text-align:center;
+    margin-top: 2rem;
+}
+
+.header_container {
+   text-align:center;
+   margin-bottom: 2rem;
+}
+
+.header_logo {
+    font-family: 'Pacifico', cursive;
+}
