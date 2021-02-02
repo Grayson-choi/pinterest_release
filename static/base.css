@@ -2,20 +2,45 @@
     font-family: 'Lobster', cursive;
     margin-top: 1rem;
 }
-.footer_button{
+
+.footer_button {
     font-size: .6rem;
 }
 
 .footer_container {
-    text-align:center;
+    text-align: center;
     margin-top: 2rem;
 }
 
 .header_container {
    text-align:center;
    margin-bottom: 2rem;
+
 }
 
 .header_logo {
     font-family: 'Pacifico', cursive;
+}
+
+@media screen and (max-width:500px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    cover: black;
+}
+
+.header_nav {
+    margin: 0 0.5rem;
+}
+
+.header_navbar {
+
 }
